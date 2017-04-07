@@ -1,0 +1,21 @@
+# Site settings
+title: Code with Sarah Cyr
+header-img: img/home-bg.png
+email: sarahcyrdesign@gmail.com
+copyright_name: SarahCyrDesign
+description: > # this means to ignore newlines until "baseurl:"
+  Follow my Adventures as a Web Developer and Designer
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: sarahcyrdesign
+github_username:  SarahCyrDesign
+learn_profile: SarahCyrDesign
+email_username: sarahcyrdesign@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
