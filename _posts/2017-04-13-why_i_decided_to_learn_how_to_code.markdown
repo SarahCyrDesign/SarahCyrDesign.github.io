@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why I decided to Learn How to Code"
-date:   2017-04-13 14:06:35 +0000
+date:   2017-04-13 10:06:36 -0400
 ---
 
 
@@ -25,7 +25,7 @@ When trying to look for a job, I then noticed that many listings asked for techn
 
 ***The start of my coding journey***
 
-With a newfound desire for learning I took my first step a few years ago with free coding classes such as codeacademy and W3 Schools. A year later, I wanted to invest in a guided online program where SkillCrush.com shaped my way of viewing code forever. Code was not to be feared, but embraced and used as another creative art tool just as I would with any brush or Photoshop program. I was bitten by the bug and wanted more. I needed to be challenged and become the problem solver in order to have a more fulfilling life and career. 
+With a newfound desire for learning I took my first step a few years ago with free coding classes such as Codeacademy.com and W3Schools.com. A year later, I wanted to invest in a guided online program where SkillCrush.com shaped my way of viewing code forever. Code was not to be feared, but embraced and used as another creative art tool just as I would with any brush or Photoshop program. I was bitten by the bug and wanted more. I needed to be challenged and become the problem solver in order to have a more fulfilling life and career. 
 
 
 *5 Fun facts about me:*
