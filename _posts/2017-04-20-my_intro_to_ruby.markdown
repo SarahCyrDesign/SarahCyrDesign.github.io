@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My Intro to Ruby""
-date:   2017-04-20 14:16:56 +0000
+date:   2017-04-20 10:16:56 -0400
 ---
 
 
