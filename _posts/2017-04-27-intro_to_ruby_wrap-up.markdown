@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Intro to Ruby Wrap-up"
-date:   2017-04-27 14:05:43 +0000
+date:   2017-04-27 10:05:44 -0400
 ---
 
 
@@ -67,6 +67,7 @@ end
 
 
 *Notice how you don't need to repeat the argument "board" constantly with each method? look forward to learning more about Object Oriented Ruby down the line!*
+
 
 The other night I finished the Version Control/Git/GitHub class relatively faster then I thought. I had some experience with the terminal, Git and GitHub before, but still need some fine tuning with branches and pull requests. I hope to apply these newfound skills very soon with future projects. Approaching week 4 soon and about to dive into some HTML and CSS, which I am very excited to revisit again!
 
