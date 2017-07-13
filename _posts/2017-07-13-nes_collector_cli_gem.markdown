@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "NES Collector CLI Gem"
-date:   2017-07-13 16:06:55 +0000
+date:   2017-07-13 12:06:56 -0400
 ---
 
 
