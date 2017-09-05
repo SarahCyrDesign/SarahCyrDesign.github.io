@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Vineyard Companion Sinatra App"
-date:   2017-09-05 17:53:37 +0000
+date:   2017-09-05 13:53:38 -0400
 ---
 
 ![](http://www.terlatovineyards.com/sites/default/files/slideshow/vineyard-grapes-home-slideshow.jpg)
 
-With the many possibilities for my Sinatra app to choose from, I decided on a Vineyard/Winery app that follows a User's wine tasting adventures and records their experiences. This app can be utilized in lieu of paper wine tasting lists that get lost over time.
+With the many possibilities for my Sinatra app to choose from, I decided on a Vineyard app that follows a User's wine tasting adventures and records their experiences. This app can be utilized in lieu of paper wine tasting lists that get lost over time.
 
 
 This is done by:
