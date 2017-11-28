@@ -1,13 +1,13 @@
 ---
 layout: post
 title:      "Rails Portfolio Project - Freelancelot"
-date:       2017-10-12 15:57:48 +0000
+date:       2017-10-12 11:57:49 -0400
 permalink:  rails_portfolio_project_-_freelancelot
 ---
 
 When approaching this project differently from the Sinatra app, I wanted to create something that was relevant to my background in graphic design and my life in general as a freelancer. I asked myself "Would I use this? Is this helpful to other users?" At this point in the project I can finally answer these questions with a resounding "Yes!"
 
-As with the Sinatra project, this process has been a fantasic learning experience. It also brought out things about myself that I needed to improve upon, which meant going back to Ruby basics and brush up on my foundations as the principles continue to be applied here. An ongoing problem I seem to have is object scope. I tend to lose track where class variables end up throughout the models, controllers, and views. By going through this porcess, I am confident now that I can learn to hone this in as time goes on. 
+As with the Sinatra project, this process has been a fantasic learning experience. It also brought out things about myself that I needed to improve upon, which meant going back to Ruby basics and brush up on my foundations as the principles continue to be applied here. An ongoing problem I seem to have is object scope. I tend to lose track where class variables end up throughout the models, controllers, and views. By going through this process, I am confident now that I can learn to hone this in as time goes on. 
 
 So what kind of features can you expect from Freelancelot?
 
