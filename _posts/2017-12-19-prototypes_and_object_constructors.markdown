@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "Prototypes and Object Constructors"
-date:       2017-12-19 16:45:27 +0000
+date:       2017-12-19 11:45:28 -0500
 permalink:  prototypes_and_object_constructors
 ---
 
 
-Continueing my discoveries of the ins and outs of JavaScript, I cam across a deeper understanding of prototyping. As opposed to Ruby which realies more on classes for inheritance, Javascript prototyping is a more flexible object model. As an example, I will be using my cockatiel Sunny to give birth to our new object model and add prototyping functions for reuse. 
+Continueing my discoveries of the ins and outs of JavaScript, I came across a deeper understanding of prototyping. As opposed to Ruby which realies more on classes for inheritance, Javascript prototyping is a more flexible object model. As an example, I will be using my cockatiel Sunny to give birth to our new object model and add prototyping functions for reuse. 
 
 
 ![](https://media1.tenor.com/images/d5a89f90496149b378656cbe596a294d/tenor.gif?itemid=4581095)
