@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Breaking Down the Lexical Scope and This"
-date:       2017-12-19 20:05:42 +0000
+date:       2017-12-19 15:05:43 -0500
 permalink:  breaking_down_the_lexical_scope_and_this
 ---
 
@@ -11,7 +11,7 @@ Scope has been a difficult concept to wrap my head around when I first started t
 ```
 var animal = "monkey";
 function zoo() {
-  var animal = lion;
+  var animal = "lion";
   console.log(animal);
 }
 
