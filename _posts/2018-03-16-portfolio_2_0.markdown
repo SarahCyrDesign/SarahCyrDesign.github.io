@@ -1,0 +1,17 @@
+---
+layout: post
+title:      "Portfolio 2.0"
+date:       2018-03-16 17:54:04 +0000
+permalink:  portfolio_2_0
+---
+
+
+At least once a year you have to take a step back and really look at where your online portfolio is at. Upon viewing the newest design trends I have decided it was time to give my site a new overhaul to keep up with today's aesthetics and technological needs. My primary focus is to showcase my portfolio projects ad case studies more so than separate art entities. The more communication the better, describing each step with much detail and analysis. Viewers need to know why you make the design and tech choices throughout each project/brand/product.
+
+
+Since I want my career to be focused on UI/UX I plan on brining more test visuals, personas, infographs, wireframes and mood boards into the mix. This way I can merge my love for code and design together into one cohesive message throughout my portfolio. 
+
+
+As far as re-coding the site, I decided to stick with Bootstrap as I am most familiar woth the framework and can manipulate the grid fairly easily. My next steps is to gather inspiration on how the design of portfolios are being approached and inject myself into it. From what I can see flat colors, large pictures and interfaces are trending as most apps have simplified aesthetics.
+
+Keep a look out as I continue to improve my portfolio bit by bit: [Sarah Cyr Portfolio Site](http://sarahcyrdesign.com/)
